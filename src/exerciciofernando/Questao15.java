@@ -40,7 +40,7 @@ public class Questao15 {
             if (i == x - 1) {
                 valores += " e " + banco[i] + " ]";
             } else if (i == x - 2) {
-                valores += banco[i] + "  ";
+                valores += banco[i] + " ";
             } else {
                 valores += banco[i] + ", ";
             }
